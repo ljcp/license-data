@@ -1,5 +1,5 @@
 {
-  "name": "license-report",
+  "name": "license-data",
   "version": "2.1.0",
   "description": "creates a short report about project's dependencies (license, url etc)",
   "main": "index.js",
