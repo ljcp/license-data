@@ -1,3 +1,7 @@
+license-report --output=json > outputfile.json
+
+
+
 # license report tool
 generate license report of a project's dependencies
 
